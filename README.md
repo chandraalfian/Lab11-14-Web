@@ -1,9 +1,9 @@
 # Praktikum 11 - PHP Framework (Codeigniter)
 # Pemrograman Web
 ```
-Alfansha Abiftyo Hadyatama
-311910321
-TI.19.A.2
+Ahmad Alfian Chandra
+312010336
+TI.20.A.2
 ```
 
 ## Persiapan
